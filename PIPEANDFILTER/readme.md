@@ -7,7 +7,7 @@ This repository contains two Java implementations of the Observer design pattern
 - [Project 1: notifyactiveusers](#project-1-notifyactiveusers)
 - [Project 2: sentsmstophonenumber](#project-2-sentsmstophonenumber)
 - [How to Run](#how-to-run)
-- [Requirements](#requirements)
+- [Requirements](#reAquirements)
 - [License](#license)
 
 ## Overview
